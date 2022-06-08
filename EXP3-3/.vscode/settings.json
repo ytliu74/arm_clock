@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "interrupt.h": "c",
+        "debug.h": "c",
+        "tm4c1294ncpdt.h": "c",
+        "cstring": "cpp",
+        "string.h": "c",
+        "math.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
