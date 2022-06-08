@@ -364,7 +364,7 @@
    
    ```
 
-   4. 计时器显示及调节
+4. 计时器显示及调节
 
       ```c
       void timer_display(void)
